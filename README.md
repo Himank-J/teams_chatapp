@@ -1,6 +1,36 @@
-[![MIT License][license-shield]][license-url]
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://ibb.co/sC0TMQV">
+    <img src="https://heliocentrix.co.uk/wp-content/uploads/2020/04/microsoft-teams-logo-png_480-480.png" alt="Logo" width="80" height="80">
+  </a>
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
+  <h3 align="center">Teams ChatApp</h3>
+
+  <p align="center">
+    A chat service replication of Microsoft Teams app
+    <br />
+    <br />
+    <a href="https://teams-chatapp.netlify.app/">View Demo</a>
+    ·
+    <a href="https://github.com/Himank-J/">Report Bug</a>
+    ·
+    <a href="https://github.com/Himank-J/">Request Feature</a>
+  </p>
+</p>
+
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+
+* [About the Project](#about-the-project)
+  * [Built With](#built-with)
+* [Getting Started](#getting-started)
+  * [Installation](#installation)
+* [Usage](#usage)
+* [Roadmap](#roadmap)
+* [Contributing](#contributing)
+* [License](#license)
+* [Contact](#contact)
 
 
 # Getting Started with Create React App
