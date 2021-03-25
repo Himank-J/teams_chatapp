@@ -6,7 +6,7 @@
 <br />
 <p align="center">
   <a href="https://ibb.co/sC0TMQV">
-    <img src="https://heliocentrix.co.uk/wp-content/uploads/2020/04/microsoft-teams-logo-png_480-480.png" alt="Logo" width="80" height="80">
+    <img src="https://heliocentrix.co.uk/wp-content/uploads/2020/04/microsoft-teams-logo-png_480-480.png" alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center">Teams ChatApp</h3>
@@ -29,19 +29,36 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
+  * [Available Scripts](#available-scripts)
+* [Purpose](#purpose)
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
 ![login-screenshot](images/login.png)
 ![chat1-screenshot](images/chat_interface.png)
 ![chat1-screenshot](images/chat_interface2.png)
+<br />
+Microsoft Teams is one of the most popular business communication platform being used all over the world. With the pandemic over our heads, Teams platform has become the new classroom for many school/college students. One of the great features of the Teams app is the chat interface it provides.<br /> **This project is an implementation of the microsoft teams chat feature where users can send messages to other individuals or a group.**<br/>
+### **Features -**<br />
+* Users can send many to each other or on a group
+* Users have the ability to send images on chat
+* Admin can add other members to a group
+* A small scaled user profile picture appears below seen messages (refer below screenshots)
+* Small message tone can be heard when user sends a message 
+
+
+### Built With
+This application is built with love, dedication, coffee and:
+* [React JS](https://reactjs.org/)
+* [Chat engine](https://chatengine.io/) <br />
+React is a javascript library used for building user interface and Chat engine is a service which offers API for implementing chat features in any application. Chat engine is used to take care of backend services such as a user profile creation or creating an admin or a group. Services of chat engine are incorporated into react using API provided by chat engine.<br />
+App url - https://teams-chatapp.netlify.app/  <br/>
+You can use following details for login and sample testing - <br />
+**username-** Himank_J, **password-** himank09 <br/>
+**username-** Gurman02, **password-** gurman
 
 
 # Getting Started with Create React App
@@ -115,12 +132,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-<!-- ROADMAP -->
-## Roadmap
 
-See the [open issues](https://github.com/LondheShubham153/fynd-my-movie/issues) for a list of proposed features (and known issues).
-
-
+<!-- Purpose -->
+## Purpose of Project
+The purpose of this project is to develop a chat application. This project is great learning step for anyone getting started with react and understanding how different features of react are implemented.
+Perosnally this project helped me - 
+* Master react components
+* understand API calls using axios
+* understand use of external servies like Chat engine in react using react-chat-engine library  
 
 <!-- CONTRIBUTING -->
 ## Contributing
