@@ -134,7 +134,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 <!-- Purpose -->
-## Purpose of Project
+## Purpose 
 The purpose of this project is to develop a chat application. This project is great learning step for anyone getting started with react and understanding how different features of react are implemented.
 Perosnally this project helped me - 
 * Master react components
